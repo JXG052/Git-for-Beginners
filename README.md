@@ -19,5 +19,8 @@
 * push - *Upload Git commits to a remote repo*
 * pull - *Download changes from remote repo to local machine. Opposite of push*
 
+### changes local development
+1. Open index.html in your browser
+
 
 
